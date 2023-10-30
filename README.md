@@ -1,2 +1,1 @@
-# vue-scaffold
-vue项目的脚手架
+## vue脚手架
